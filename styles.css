@@ -1,0 +1,23 @@
+.col-md-4  {
+    height: 350px;
+    border: 1px solid gray;
+    background: rgb(214, 200, 200);
+}
+
+.row {
+    background: grey;
+}
+
+.navbar-brand  {
+    color: wheat;
+}
+
+.nav-link {
+    color: black;
+}
+
+
+/*  @media (min-width: 980px) {
+
+} */
+

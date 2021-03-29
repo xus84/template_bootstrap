@@ -1,3 +1,7 @@
+h3, h4 {
+    padding-top: 5px;
+}
+
 .col-md-4  {
     height: 350px;
     border: 1px solid gray;
@@ -14,10 +18,40 @@
 
 .nav-link {
     color: black;
+    font-weight: bold;
 }
 
 
-/*  @media (min-width: 980px) {
+.img {
+    padding-top: 10px;
+    
+}
 
-} */
+form {
+    width: 350px;
+    height: 250px;
+    border: 1px solid rgb(105, 102, 102);
+    border-radius: 10px;
+}
 
+
+.form-group, .checkbox, .submit{
+    padding: 10px;
+}
+
+.form-group {
+    font-weight: bold;
+}
+
+.submit{
+    padding-left: 10px;
+
+
+}
+ @media (max-width: 700px) {
+  .form {
+      margin-left: 250px ;
+  }
+} 
+
+ 
